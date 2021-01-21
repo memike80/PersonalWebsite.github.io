@@ -3,12 +3,12 @@ html, body {
     height: 100%;
 }
 /*------------------------------------------------Projects-------------------------------------------------*/
-body.proBody {
+/*body.proBody {
     background-image: url(images/Projects%20BG.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-}
+}*/
 
 .divSquare{
     width: 49%; 
